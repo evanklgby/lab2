@@ -23,7 +23,8 @@ body {
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/1140/283");
+     background: url("https://uploads-ssl.webflow.com/5f6ea3dc05fc6a2393d56a09/5fed4ff374e94d586c7f650f_Logo%20Transparent%201.png");
+		 background-size: cover;
      opacity: 0.2;
      top: 0;
      left: 0;
